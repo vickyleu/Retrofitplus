@@ -10,7 +10,7 @@ import java.net.SocketTimeoutException;
 import java.net.UnknownHostException;
 import java.util.List;
 
-import io.reactivex.exceptions.CompositeException;
+import io.reactivex.rxjava3.exceptions.CompositeException;
 import retrofit2.HttpException;
 
 public class ExceptionMatcher {

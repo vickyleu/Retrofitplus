@@ -6,7 +6,7 @@ import java.util.List;
 import github.library.utils.Error;
 import github.library.utils.ExceptionMatcher;
 import github.library.utils.IExceptionMessage;
-import io.reactivex.exceptions.CompositeException;
+import io.reactivex.rxjava3.exceptions.CompositeException;
 
 public enum ExceptionParseMgr {
     Instance;
